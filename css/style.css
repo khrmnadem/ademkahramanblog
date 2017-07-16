@@ -1,0 +1,15 @@
+.anasayfa-jumb{
+	margin-top:-20px;
+}
+.anasayfa-alert{
+	margin-top:-30px;
+}
+.bilgi{
+	display:block;
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	text-align: center;
+	border:2px solid #31708F;
+	border-radius: 50%;
+}
